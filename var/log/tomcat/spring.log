@@ -1,0 +1,8 @@
+2019-06-20 13:42:54.621  INFO 13552 --- [main] com.imooc.sell.LoggerTest                : Starting LoggerTest on Lenovo with PID 13552 (started by ThinkPad in E:\Projects\sell)
+2019-06-20 13:42:54.626  INFO 13552 --- [main] com.imooc.sell.LoggerTest                : No active profile set, falling back to default profiles: default
+2019-06-20 13:42:57.483  INFO 13552 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-20 13:42:57.857  INFO 13552 --- [main] com.imooc.sell.LoggerTest                : Started LoggerTest in 4.11 seconds (JVM running for 5.559)
+2019-06-20 13:42:58.086  INFO 13552 --- [main] com.imooc.sell.LoggerTest                : info...
+2019-06-20 13:42:58.089  INFO 13552 --- [main] com.imooc.sell.LoggerTest                : name:imooc, password:123456
+2019-06-20 13:42:58.091 ERROR 13552 --- [main] com.imooc.sell.LoggerTest                : error...
+2019-06-20 13:42:58.102  INFO 13552 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
