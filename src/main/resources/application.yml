@@ -5,3 +5,16 @@
 #  file: .\var\log\tomcat\sell.log
 #  level:
 #    com.imooc.sell: debug
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://192.168.28.191:3306/sell?characterEncoding=utf8&useSSL=false
+  jpa:
+    show-sql: true
+
+
+
+
