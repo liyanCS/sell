@@ -6,7 +6,6 @@ import org.hibernate.annotations.DynamicUpdate;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.math.BigDecimal;
-import java.util.Date;
 
 /**
  * @author Li Yan
@@ -37,12 +36,12 @@ public class OrderDetail {
      * '商品小图'
      */
     private String productIcon;
-    /**
-     * '创建时间'
-     */
-    private Date createTime;
-    /**
-     * '修改时间'
-     */
-    private Date updateTime;
+//    /**
+//     * '创建时间'
+//     */
+//    private Date createTime;
+//    /**
+//     * '修改时间'
+//     */
+//    private Date updateTime;
 }
